@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Dalton's First CS193 Homework
+
+- I like how CS193 is teaching me how to use Github
+- CS193 is very useful because it gives me tools to be a successful developer
+- I am excited to learn more in CS193
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
